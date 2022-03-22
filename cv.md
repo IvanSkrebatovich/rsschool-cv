@@ -35,8 +35,17 @@ function lovefunc(flower1, flower2){
 ````
 ___
 
+### **Courses:**
++ **__[Stepik](https://stepik.org/users/347631917)__**
 
+  + Web-technologies course
+  + Programming to Python course
+  + Introduction to Linux course
 
-### Education
++ **__[Html Academy](https://htmlacademy.ru/profile/id1858343)__**
 
-#### __[Trailblazer](https://trailblazer.me/id/iskrebatovich)__
++ **__[Trailblazer](https://trailblazer.me/id/iskrebatovich)__**
+___
+
+### **Language:**
++ English B1
